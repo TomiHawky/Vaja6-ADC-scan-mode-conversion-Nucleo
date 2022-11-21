@@ -12,10 +12,10 @@
 - DMA = Direct memory access (Direkten dostop spomina).
 
 ## Pinout
-![Pinout](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/IMG_20221115_085853.jpg)
+![Pinout](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/Screenshot%20from%202022-11-21%2011-52-01.png)
 
 ## Slika Vezja
-![SlikaVezja](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/Screenshot%20from%202022-11-21%2011-52-01.png)
+![SlikaVezja](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/IMG_20221115_085853.jpg)
 
 ## Komentar
  -koda ne deluje, saj so sve 3 vrednosti enako
