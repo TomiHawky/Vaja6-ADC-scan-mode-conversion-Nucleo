@@ -4,9 +4,18 @@
 
 ## Postopek inicializacije periferije
 
-- vhidni pini so PC0 , PC1 , PC2.  
+- vhodni pini so PC0 , PC1 , PC2.  
 - Poleg pinov se izpiše ADC1_IN1,2,3.  
 - Izbrana Vrednost je 4.  
 - Number of Conversio je 1.  
 - tvz = 61,87μs 
 - DMA = Direct memory access (Direkten dostop spomina).
+
+## Pinout
+![Pinout](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/IMG_20221115_085853.jpg)
+
+## Slika Vezja
+![SlikaVezja]([media/FF69ECB8-AD37-4267-8AE3-73734B376573.jpeg](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/Screenshot%20from%202022-11-21%2011-52-01.png))
+
+## Komentar
+ -koda ne deluje, saj so sve 3 vrednosti enako
