@@ -15,7 +15,7 @@
 ![Pinout](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/IMG_20221115_085853.jpg)
 
 ## Slika Vezja
-![SlikaVezja]([media/FF69ECB8-AD37-4267-8AE3-73734B376573.jpeg](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/Screenshot%20from%202022-11-21%2011-52-01.png))
+![SlikaVezja](https://raw.githubusercontent.com/TomiHawky/Vaja6-ADC-scan-mode-conversion-Nucleo/main/Screenshot%20from%202022-11-21%2011-52-01.png)
 
 ## Komentar
  -koda ne deluje, saj so sve 3 vrednosti enako
